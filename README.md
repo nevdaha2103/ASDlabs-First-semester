@@ -13,7 +13,7 @@ These are labs from the first semester
 
 (![image](https://github.com/nevdaha2103/ASDlabs-First-semester/assets/71140644/ac1a6511-7d9f-4f4d-a010-d7b175f686dc)
 
-## Лабораторна № 1.2
+## Лабораторна робота № 1.2
 Завдання:
 1. Задане натуральне число n. Вирахувати значення заданої
 формули за варіантом.
@@ -47,7 +47,7 @@ These are labs from the first semester
 
 ![image](https://github.com/nevdaha2103/ASDlabs-First-semester/assets/71140644/3228daa7-c0af-4566-a3ea-3027ddce6312)
 
-## Лаборвторнв роботв № 1.6
+## Лабораторнв роботв № 1.6
 Завдання:
 1. Оскільки екран монітора має площинні координати так само, як і 
 двовимірний масив (матриця), але, на відміну від останнього,
