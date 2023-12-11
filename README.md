@@ -75,6 +75,7 @@ These are labs from the first semester
 набори початкових значеннь матриці, щоб можна було легко відстежити коректність виконання пошуку і ця коректність була б
 протестована для всіх можливих випадків. З метою тестування дозволяється використовувати матриці меншого розміру.
 
-![image](https://github.com/nevdaha2103/ASDlabs-First-semester/assets/71140644/faa5928a-905a-4b47-81b0-94f55b5bd225)
+![image](https://github.com/nevdaha2103/ASDlabs-First-semester/assets/71140644/a4cec8b2-ebc3-44e0-be97-61f257bf86d6)
+
 
 
